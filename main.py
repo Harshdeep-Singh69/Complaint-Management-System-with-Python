@@ -14,7 +14,7 @@ root.geometry('550x350')
 root.title('Complaint Management System')
 root.configure(bg='blue')
 
-#Style
+#Setting style
 
 
 style = Style()
